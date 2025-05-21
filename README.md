@@ -127,7 +127,6 @@ This report provides a technical and creative comparison of two ambient audio sa
 - **Amplitude**: Noticeable spikes in the middle (strong thunder)
 - **Interpretation**: Features rain, thunder, and a slowing piano progression
 
-![Waveform Comparison](waveform_comparison.png)
 
 ---
 
@@ -143,7 +142,6 @@ This report provides a technical and creative comparison of two ambient audio sa
 - **Sound Elements**: Thunder (deep bass), rain, piano
 - **Spectral Character**: Wide dynamic and tonal range
 
-![Spectrum Comparison](spectrum_comparison.png)
 
 ---
 
