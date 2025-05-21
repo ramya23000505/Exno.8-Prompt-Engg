@@ -9,7 +9,27 @@ Explore how various prompting techniques can be used to generate and manipulate 
 
 ## AI-Tools Requireds
 
-- Eleven Labs
+**Eleven Labs**
+
+---
+
+# 🎧 PROMPT
+
+## 🔵 Audio 1:
+
+> “Outside, the relentless rainfall pounds against the windows while distant thunder rumbles like a warning from the depths. Inside the old, forgotten mansion, a fragile piano plays a haunting melody—each note trembling through the air. Suddenly, the heavy door shutter slams shut with a bone-chilling bang, sealing you in darkness. What lurks beyond the shuttered door, waiting to be unleashed?”
+
+## 🎙️ OUTPUT LINK:
+https://drive.google.com/file/d/1R057XmNV7HC_bAcMlicFEcYTahvHebSw/view?usp=drive_link
+
+
+## 🟢 Audio 2:
+> Generate an immersive audio scene with continuous light rain and a gentle breeze in the background. Begin with a soft, emotional piano melody playing steadily. As the audio progresses, the piano gradually slows down and fades into the ambiance. Around the midpoint, introduce a series of distant thunder rumbles, slowly increasing in intensity. Include one loud thunderclap in the middle section. Afterward, return to a tranquil atmosphere with only the sound of light rain and breeze, fading out smoothly
+
+## 🎙️ OUTPUT LINK:
+https://drive.google.com/file/d/1cJUr2D82d5SpcPJ6vhYCDwcLYFxld5Gw/view?usp=drive_link
+
+---
 
 # PROCEDURE
 
@@ -80,21 +100,6 @@ If narration is **not required**, use these tools for pure ambient or instrument
 
 ---
 
-# PROMPT
-
-## 🔵 Audio 1:
-
-> “Outside, the relentless rainfall pounds against the windows while distant thunder rumbles like a warning from the depths. Inside the old, forgotten mansion, a fragile piano plays a haunting melody—each note trembling through the air. Suddenly, the heavy door shutter slams shut with a bone-chilling bang, sealing you in darkness. What lurks beyond the shuttered door, waiting to be unleashed?”
-
-## 🎙️ OUTPUT LINK:
-https://drive.google.com/file/d/1R057XmNV7HC_bAcMlicFEcYTahvHebSw/view?usp=drive_link
-
-
-## 🟢 Audio 2:
-> Generate an immersive audio scene with continuous light rain and a gentle breeze in the background. Begin with a soft, emotional piano melody playing steadily. As the audio progresses, the piano gradually slows down and fades into the ambiance. Around the midpoint, introduce a series of distant thunder rumbles, slowly increasing in intensity. Include one loud thunderclap in the middle section. Afterward, return to a tranquil atmosphere with only the sound of light rain and breeze, fading out smoothly
-
-## 🎙️ OUTPUT LINK:
-https://drive.google.com/file/d/1cJUr2D82d5SpcPJ6vhYCDwcLYFxld5Gw/view?usp=drive_link
 
 
 # 🎧 Audio Comparison Report: Piano + Rain + Thunder
